@@ -1,0 +1,6 @@
+1,a dog has cat love
+2,a cat has dog not love
+3,cat dog love not has bla
+4,obedient poison knew timon mind
+5,medlar apemantus hate dost
+6,1 2 3 4 5 6 7 8 9 10
